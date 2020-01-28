@@ -54,7 +54,7 @@ We listen and respond to you for any kind of question
 
          Secure | Fast 🔐⚡
 
-• You can count on us to make sure your coin and investement is completed kept safe %
+• You can count on us to make sure your coin and investment is completed kept safe %
 
 • VorteX Network it is very Fast instant transaction and small commission 
 
@@ -90,6 +90,38 @@ Trusted 🙌❤
 
 •  VorteX Network, the services provided include everything you need in one place and at the best quiality. In a world that is constantly changing, you can be sure that the folks here will be by your side with every step of the process.
 
+------------------------
+Our social channels : 👇🏻
 
+Website: 
+http://vortexnetworkvtx.com/
 
+Twitter-Official:  https://twitter.com/VorteX_Global
+
+Twitter-Contest: 
+https://twitter.com/VorteXNetwork7
+
+Discord: https://discord.gg/CKZECR9
+
+Telegram: 
+https://t.me/VorteXNetwork
+
+Instagram: https://www.instagram.com/vortexnetwork_official/ 
+
+Youtube: https://m.youtube.com/channel/UCqgdVJ6YgtdHNfhHE-00Ijg
+
+Medium: https://medium.com/@vortexnetworkvtx
+
+Reddit: https://www.reddit.com/u/vortextoken?utm_medium=android_app&utm_source=share
+
+Bitcointalk:
+https://bitcointalk.org/index.php?topic=5220509.msg53694415#msg53694415
+
+Github:
+https://github.com/vortexnnetworkvtx/VorteX-Network?files=1
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Project info :
+
+Smart Contract link:
+ https://etherscan.io/token/0xd957E08ac5421E2C28510586B57d095E5094836a
 
