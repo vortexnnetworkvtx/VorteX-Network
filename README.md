@@ -1,10 +1,17 @@
-                VorteX Network Token
+              "VorteX Network (VTX) Token"
 
- Advancing and dedicated Blockchain – the new generation of decentralized Web3. staking platform. improvements for the next DeFi ecosystem powered by VorteX Gate 2.0
+ 
+VORTEX NETWORK
 
-The VorteX Network is an global decentralised  “Open-Source” Token , running on the Ethereum Blockchain. Our services is designed to facilitates a self sovereign financial reliability markets and merchandise all in one source .
+A self-sovereign decentralized global ecosystem. Use full potential of DeFi opportunities into a one vibrant platform. (All-In-One)
 
+VorteX Network is a pure dedicated open-source token running on the Ethereum blockchain. VTX project started with no ICO, Prea-sale or any type of used distribution methods. Our project enables trust-less and better solvency for the people and provides support for investors.
 
+Use case :
+VorteX Network enables businesses and individuals markets to securely offers and access a wide range of financial services, and invest, exchange, and spend digital assets anytime, anywhere.
+No matter which industry you are in, VorteX Network solutions are applicable to a range of problems that can be tailored to your business and markets needs.
+
+Advancing and dedicated Blockchain – the new generation Web3. staking platform. improvements for the next DeFi ecosystem powered by VorteX Gate 2.0
 • Our services provided include everything you need in one place at the best quiality.
 ------------------------
 Social media channels :
@@ -34,8 +41,6 @@ https://bitcointalk.org/index.php?topic=5220509.msg53694415#msg53694415
 Github:
 https://github.com/vortexnnetworkvtx/VorteX-Network?files=1
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Project info :
-
 Smart Contract link:
  https://etherscan.io/token/0xd957E08ac5421E2C28510586B57d095E5094836a
 
