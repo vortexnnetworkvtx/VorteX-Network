@@ -3,7 +3,8 @@
  
 VORTEX NETWORK
 
-A self-sovereign decentralized global ecosystem. Use full potential of DeFi opportunities into a one vibrant platform. (All-In-One)
+A self-sovereign decentralized global ecosystem.
+Use full potential of DeFi opportunities into a one vibrant platform.(All-In-One)
 
 VorteX Network is a pure dedicated open-source token running on the Ethereum blockchain. VTX project started with no ICO, Prea-sale or any type of used distribution methods. Our project enables trust-less and better solvency for the people and provides support for investors.
 
