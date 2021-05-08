@@ -1,4 +1,4 @@
-    "VorteX Network (VTX) Token"
+      "VorteX Network (VTX) Token"
 
  
 VORTEX NETWORK
