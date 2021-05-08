@@ -1,4 +1,4 @@
-              "VorteX Network (VTX) Token"
+           "VorteX Network (VTX) Token"
 
  
 VORTEX NETWORK
@@ -12,7 +12,7 @@ VorteX Network enables businesses and individuals markets to securely offers and
 No matter which industry you are in, VorteX Network solutions are applicable to a range of problems that can be tailored to your business and markets needs.
 
 Advancing and dedicated Blockchain – the new generation Web3. staking platform. improvements for the next DeFi ecosystem powered by VorteX Gate 2.0
-• Our services provided include everything you need in one place at the best quiality.
+• Our services provided include everything you need in one place at the best quality.
 ------------------------
 Social media channels :
 
