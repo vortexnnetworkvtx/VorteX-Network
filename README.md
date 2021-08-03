@@ -3,29 +3,36 @@
  
 VORTEX NETWORK
 
-A self-sovereign decentralized global ecosystem.(All-In-One)
-Use full potential of DeFi opportunities into a one vibrant platform.
+Building the Future of Digital Markets Economy and a better unlimited DeFi opportunities, one Ecosystem to rule them all.
 
-VorteX Network is a pure dedicated open-source token running on the Ethereum blockchain. VTX project started with no ICO, Prea-sale or any type of used distribution methods. Our project enables trust-less and better solvency for the people and provides support for investors.
+About VorteX Network, was officially launched on January 14, 2020 on the Ethereum blockchain without any crowd sale, private sale or ICO.
 
-Use case :
-VorteX Network enables businesses and individuals markets to securely offers and access a wide range of financial services, and invest, exchange, and spend digital assets anytime, anywhere.
-No matter which industry you are in, VorteX Network solutions are applicable to a range of problems that can be tailored to your business and markets needs.
+VTX is a decentralized open-source blockchain system that features its own cryptocurrency ecosystem in several the most powerful chains used.
 
-Advancing and dedicated Blockchain – the new generation Web3. staking platform. improvements for the next DeFi ecosystem powered by VorteX Gate 2.0
-• Our services provided include everything you need in one place at the best quality.
+Our own purported goal is to become a global ecosystem for businesses and individuals markets to securely offers and access for a wide of range variety financial services: invest, exchange, and spend any digitals assets anytime anywhere, all into a one vibrant platform.
+
+The mission of VorteX Network is to provide the most trustless, secure, professional, and efficient Multi-Chain and crypto services for mankind.
+
+VorteX Network on being the largest currency with realistic functional objectives for the people.
+
+VorteX is the first project in the World with five different blockchains interconnected by a bridge into our platform VorteX Gate: Ethereum (ERC20), Binance Smart-Chain (BEP20), Tron (TRC20), Harmony (HRC20), Huobi Eco-Chain (HECO).
+
+
+Learn More about VorteX Network on the Whitepaper 📘
+https://vortexnetworkvtx.com/whitepaper.html
 ------------------------
-Social media channels :
+Official Social media channels :
 
 Website: 
 http://vortexnetworkvtx.com/
 
 Twitter-Official:  https://twitter.com/VorteX_Global
 
-Twitter-Contest: 
-https://twitter.com/VorteXNetwork7
+Twitter Official VorteX Gate (stake):
+https://twitter.com/vortex_gate
 
-Discord: https://discord.gg/CKZECR9
+Twitter-Community: 
+https://twitter.com/VorteXNetwork7
 
 Telegram: 
 https://t.me/VorteXNetwork
@@ -36,12 +43,31 @@ Medium: https://medium.com/@vortexnetworkvtx
 
 Reddit: https://www.reddit.com/u/vortextoken
 
+Discord: https://discord.gg/CKZECR9
+
 Bitcointalk:
 https://bitcointalk.org/index.php?topic=5220509.msg53694415#msg53694415
 
-Github:
-https://github.com/vortexnnetworkvtx/VorteX-Network?files=1
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Smart Contract link:
+
+📥Smart Contract Erc20:
  https://etherscan.io/token/0xd957E08ac5421E2C28510586B57d095E5094836a
+
+Binance Smart-Chain BEP20
+
+incoming...
+
+📥Huobi Eco-Chain HECO
+
+incoming...
+
+📥Tron TRC20
+
+incoming...
+
+📥Harmony HRC20
+
+incoming...
+
+📣(Please follow the roadmap and our social media to catch the news)🔥
+
 
