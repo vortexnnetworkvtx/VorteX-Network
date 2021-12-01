@@ -3,12 +3,12 @@
  
 
 Learn More about VorteX Network in the Website
-https://vtxvortexnetworkvtx.com
 ------------------------
+
 Official Social media channels :
 
 Website: 
-http:
+https://vtxvortexnetwork.com/
 
 Twitter-Official:  https://twitter.com/VorteX_Global
 
