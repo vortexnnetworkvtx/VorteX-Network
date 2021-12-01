@@ -1,12 +1,9 @@
       "VorteX Network (VTX) Token"
 
  
-VORTEX NETWORK
 
-Building the Future of Digital Markets Economy and a better unlimited DeFi opportunities, one Ecosystem 
-
-Learn More about VorteX Network on the Whitepaper 📘
-https://vortexnetworkvtx.com/whitepaper.html
+Learn More about VorteX Network in the Website
+https://vtxvortexnetworkvtx.com
 ------------------------
 Official Social media channels :
 
